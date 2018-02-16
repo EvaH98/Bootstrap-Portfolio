@@ -29,6 +29,14 @@ a:hover {
 	color: #4aaaa5;
 }
 
+#link {
+	color: #ffffff;
+}
+
+#link:hover {
+	color: #ffffff;
+}
+
 .itemportfolio {
 	border-left: 1px solid #cccccc;
 	border-right: 1px solid #cccccc;
