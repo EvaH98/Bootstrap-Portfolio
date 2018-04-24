@@ -72,6 +72,10 @@ a:hover {
  	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
  }
 
+ #main {
+ 	overflow: scroll;
+ }
+
 
  .card-img-top {
  	height: 150px;
@@ -84,6 +88,10 @@ a:hover {
  	text-align: center;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 
+ }
+
+ .section {
+ 	overflow: scroll;
  }
 
  .btn-primary {
